@@ -7,5 +7,5 @@ Primeiro site de minha autoria, conheça meus 5 sites favoritos!
   
 Linguagem usada: HTML
 <p align="left">
-<img src="[(https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)"](https://pt.wikipedia.org/wiki/Ficheiro:HTML5-logo.svg)/>
+<img src="[[(https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)"](https://pt.wikipedia.org/wiki/Ficheiro:HTML5-logo.svg)](https://pt.wikipedia.org/wiki/HTML5)/>
 </p>
